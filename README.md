@@ -6,7 +6,7 @@ The Voice of Hack The Box intends to extend learning in the field of cybersecuri
 
 This is the main output of The Voice of Hack The Box as well as:
 
-- *@TheVoiceofHackTheBox (YouTube)*, where video content is posted in full.
+- *[@TheVoiceofHackTheBox (YouTube)](https://www.youtube.com/@TheVoiceofHackTheBox)*, where video content is posted in full.
 
 ## How To Use This Repository
 
