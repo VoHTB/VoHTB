@@ -1,0 +1,92 @@
+1
+00:00:01,160 --> 00:00:04,560
+Welcome to The Voice of Hack The Box.
+
+2
+00:00:04,560 --> 00:00:07,200
+My name is Sky, and I am your host.
+
+3
+00:00:07,200 --> 00:00:09,400
+Have you ever heard of Hack The Box?
+
+4
+00:00:09,400 --> 00:00:11,760
+Have you tried their academy modules?
+
+5
+00:00:11,760 --> 00:00:14,040
+Have you discovered that reading alone,
+
+6
+00:00:14,040 --> 00:00:18,080
+however interesting and well-structured the modules may be,
+
+7
+00:00:18,080 --> 00:00:20,280
+is a little tough to chew on?
+
+8
+00:00:20,280 --> 00:00:23,400
+Well, boy, do I have some good news for you!
+
+9
+00:00:23,400 --> 00:00:29,360
+This channel is dedicated to narrating the written content of Hack The Box Academy's modules.
+
+10
+00:00:29,360 --> 00:00:31,200
+For those of you who don't know,
+
+11
+00:00:31,200 --> 00:00:34,200
+Hack the Box is a cybersecurity training website
+
+12
+00:00:34,200 --> 00:00:39,560
+dedicated to a human-first approach to teaching cybersecurity with gamified learning
+
+13
+00:00:39,560 --> 00:00:45,000
+making the transition from the raw fundamentals to advanced hacking scenarios
+
+14
+00:00:45,000 --> 00:00:47,600
+as thorough and painless as possible.
+
+15
+00:00:47,600 --> 00:00:52,600
+One of Hack The Box's many public branches is Hack The Box Academy.
+
+16
+00:00:52,600 --> 00:00:58,840
+It is a technical, text-book style form of learning with many pages of content
+
+17
+00:00:58,840 --> 00:01:04,680
+packed full of important information in the bite-sized chunks known as modules.
+
+18
+00:01:04,680 --> 00:01:09,000
+I should be clear immediately that I am not sponsored by Hack The Box to do this.
+
+19
+00:01:09,000 --> 00:01:14,840
+I am, at the very least, making a personal learning tool available to the public.
+
+20
+00:01:14,840 --> 00:01:19,920
+All content I narrate is viewable with a free plan Hack The Box account.
+
+21
+00:01:19,920 --> 00:01:25,720
+Join me as I take you on a learning adventure deep into Hack The Box Academy's catalogue
+
+22
+00:01:25,720 --> 00:01:31,880
+with expertly referenced, mercilessly timestamped, and guidingly casual commentary.
+
+23
+00:01:31,880 --> 00:01:34,840
+Welcome to The Voice of Hack The Box.
+
