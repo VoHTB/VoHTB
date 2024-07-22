@@ -2,12 +2,6 @@
 
 The Voice of Hack The Box intends to extend learning in the field of cybersecurity from the resources provided by Hack The Box Academy.
 
-## Linked Social Media
-
-This is the main output of The Voice of Hack The Box as well as:
-
-- *[@TheVoiceofHackTheBox (YouTube)](https://www.youtube.com/@TheVoiceofHackTheBox)*, where video content is posted in full.
-
 ## How To Use This Repository
 
 In this repository you will find a folder of Episodes where you may find:
@@ -18,6 +12,16 @@ In this repository you will find a folder of Episodes where you may find:
 - Other little bits (for example: script, annotations, extra reading)
 
 Please treat these resources responsibly.
+
+## Support the channel
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N310UHLR)
+
+## Linked Social Media
+
+This is the main output of The Voice of Hack The Box as well as:
+
+- *[@TheVoiceofHackTheBox (YouTube)](https://www.youtube.com/@TheVoiceofHackTheBox)*, where video content is posted in full.
 
 ## A message to Hack The Box's Legal Team
 
