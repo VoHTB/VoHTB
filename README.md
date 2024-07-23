@@ -6,7 +6,7 @@ The Voice of Hack The Box intends to extend learning in the field of cybersecuri
 
 In this repository you will find a folder of Episodes where you may find:
 
-- The video posted to YouTube, which is free to download.
+- The video, which is free to download.
 - The audio, which is free to download.
 - The references to content used.
 - Other little bits (for example: script, annotations, extra reading)
