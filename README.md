@@ -17,6 +17,7 @@ Please treat these resources responsibly.
 
 [Join Hack The Box Academy](https://referral.hackthebox.com/mz8Slbo) and help me make content!
 
+And, if you can afford it...
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N310UHLR)
 
 ## Linked Media
