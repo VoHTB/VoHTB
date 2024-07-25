@@ -30,6 +30,11 @@ This is the main output of The Voice of Hack The Box as well as:
 - *[Official Webpage](https://vohtb.github.io/)*, the main archive and link-central.
 - *[YouTube Channel](https://www.youtube.com/@TheVoiceofHackTheBox)*, where video content is posted in full.
 
+## A message to you kindly hackers...
+
+If you find a vulnerability in any of my products, let me know!
+You know how to find me...
+
 ## A message to Hack The Box's Legal Team
 
 Should any content on this repository or associated channels be seen as unfair use in your eyes, I will comply and remove all offending content from public view.
