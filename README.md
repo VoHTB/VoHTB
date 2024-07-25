@@ -15,12 +15,15 @@ Please treat these resources responsibly.
 
 ## Support the channel
 
+[Join Hack The Box Academy](https://referral.hackthebox.com/mz8Slbo) and help me make content!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N310UHLR)
 
-## Linked Social Media
+## Linked Media
 
 This is the main output of The Voice of Hack The Box as well as:
 
+- *[Official Webpage](https://vohtb.github.io/)*, the main archive and link-central.
 - *[@TheVoiceofHackTheBox (YouTube)](https://www.youtube.com/@TheVoiceofHackTheBox)*, where video content is posted in full.
 
 ## A message to Hack The Box's Legal Team
